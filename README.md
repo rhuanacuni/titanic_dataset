@@ -1,2 +1,2 @@
 # TITULO1
-![error](jnco.jpg)
+![error](Jnco.jpg)
